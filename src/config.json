@@ -1,0 +1,32 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+    },
+    "DApp": {
+      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+    },
+    "mETH": {
+      "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+    },
+    "mDAI": {
+      "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+    },
+    "explorerURL": "#"
+  },
+  "42": {
+    "exchange": {
+      "address": "0xdB9Bfd2c723cD075927d45eae6CB7fcb5DC00E6C"
+    },
+    "DApp": {
+      "address": "0x4Cc2EBb7202cb37d3b22f9c275044D812AFa87d6"
+    },
+    "mETH": {
+      "address": "0xd53fF8148867CC020ecD1Ca8148f34a6fbF2b89f"
+    },
+    "mDAI": {
+      "address": "0x462886d18859E1Ed4CD4d27B9607AdC21BD77F4B"
+    },
+    "explorerURL": "https://kovan.etherscan.io/"
+  }
+}
